@@ -1,0 +1,6 @@
+{
+  "name": "Resume Roaster",
+  "description": "AI-powered resume diagnostic, ATS analyzer, and brutally honest career coach that roasts weak bullet points and rewrites them for measurable impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
